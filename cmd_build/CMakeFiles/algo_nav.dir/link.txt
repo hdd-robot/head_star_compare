@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/algo_nav.dir/AStar.cpp.o CMakeFiles/algo_nav.dir/DLightStar.cpp.o CMakeFiles/algo_nav.dir/Grid.cpp.o CMakeFiles/algo_nav.dir/HeadStar.cpp.o CMakeFiles/algo_nav.dir/nav_platform.cpp.o  -o algo_nav 

@@ -1,0 +1,3 @@
+/home/hdd/workspace_cpp/head_star_v4/cmd_build/CMakeFiles/rebuild_cache.dir
+/home/hdd/workspace_cpp/head_star_v4/cmd_build/CMakeFiles/algo_nav.dir
+/home/hdd/workspace_cpp/head_star_v4/cmd_build/CMakeFiles/edit_cache.dir

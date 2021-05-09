@@ -1,0 +1,4 @@
+cmd_build/*
+Debug/*
+.settings/*
+*.~
